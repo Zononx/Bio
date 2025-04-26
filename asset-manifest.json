@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bio/static/css/main.a39f7dc4.chunk.css",
+    "main.js": "/Bio/static/js/main.6bcc8407.chunk.js",
+    "main.js.map": "/Bio/static/js/main.6bcc8407.chunk.js.map",
+    "runtime~main.js": "/Bio/static/js/runtime~main.503c7467.js",
+    "runtime~main.js.map": "/Bio/static/js/runtime~main.503c7467.js.map",
+    "static/js/2.67b84e4e.chunk.js": "/Bio/static/js/2.67b84e4e.chunk.js",
+    "static/js/2.67b84e4e.chunk.js.map": "/Bio/static/js/2.67b84e4e.chunk.js.map",
+    "static/js/3.8ba39429.chunk.js": "/Bio/static/js/3.8ba39429.chunk.js",
+    "static/js/3.8ba39429.chunk.js.map": "/Bio/static/js/3.8ba39429.chunk.js.map",
+    "index.html": "/Bio/index.html",
+    "precache-manifest.6811dcc0cfdfeb858c9ec7fec89acfb1.js": "/Bio/precache-manifest.6811dcc0cfdfeb858c9ec7fec89acfb1.js",
+    "service-worker.js": "/Bio/service-worker.js",
+    "static/css/main.a39f7dc4.chunk.css.map": "/Bio/static/css/main.a39f7dc4.chunk.css.map",
+    "static/media/Qr.jpeg": "/Bio/static/media/Qr.8d1c0d17.jpeg",
+    "static/media/App.css": "/Bio/static/media/jett-background.f0fdf406.jpg",
+    "static/media/logo.svg": "/Bio/static/media/logo.06e73328.svg",
+    "static/media/meo1.jpeg": "/Bio/static/media/meo1.779954f3.jpeg"
+  }
+}

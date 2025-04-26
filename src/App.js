@@ -3,7 +3,7 @@ import './App.css';
 import React from 'react';
 
 import avatar from "./assets/meo1.jpeg";
-// import qrCode from "./assets/.jpeg";
+import qrCode from "./assets/Qr.jpeg";
 
 import { FaDiscord, FaFacebook, FaInstagram, FaYoutube } from 'react-icons/fa';
 import { SiTiktok } from "react-icons/si";
@@ -46,7 +46,7 @@ const ProfilePage = () => {
 
 
       <div className="div-img flex gap-4 mt-6">
-        {/* <img src={qrCode} alt="QR Code" className="image-box w-40 rounded-lg" /> */}
+        <img src={qrCode} alt="QR Code" className="image-box w-40 rounded-lg" />
         {/* <img src="sad-message.png" alt="Sad Message" className="w-40 rounded-lg" /> */}
       </div>
     </div>
